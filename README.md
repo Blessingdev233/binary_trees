@@ -253,5 +253,5 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Authors
-* __Blessing Tetteh__ <[Blessingdev233](https://github.com/Blessingdev233)>
+* __Blessing Tetteh__ <[My-GitHub](https://github.com/Blessingdev233)>
 
